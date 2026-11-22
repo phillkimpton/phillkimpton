@@ -2,7 +2,7 @@
 
 Security consultant by trade, cyber nerd by nature, AI tinkerer at night.
 
-Senior Security Consultant | Exposure & Attack Surface Management, Vulnerability Management, Offensive Security, Security Engineering |
+Senior Security Consultant | Exposure & Attack Surface Management, Vulnerability Management, Offensive Security, Security Engineering
 
 From find to fix - I get the proof, the owner and the change
 
@@ -19,5 +19,5 @@ Most of it is private client work. The public shelf here is deliberately small.
 - [LinkedIn](https://www.linkedin.com/in/phillkimpton/)
 
 ### Certs
-OSCP, GPEN
+OSCP, GPEN.
 Todo: OSAI+
